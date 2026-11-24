@@ -56,3 +56,6 @@ Ensure these foundational security, compliance, performance, and SEO items are v
 
 ### 🎬 Media & Downloads
 * **MKVBase** — `mkvbase.site`
+
+
+https://github.com/enescingoz/awesome-n8n-templates : n8n templates for automation
