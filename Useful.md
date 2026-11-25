@@ -59,3 +59,7 @@ Ensure these foundational security, compliance, performance, and SEO items are v
 
 
 https://github.com/enescingoz/awesome-n8n-templates : n8n templates for automation
+
+ https://github.com/goodnight000/api-anything :Api mai convert ker sakte hai kise bhi chij ko .
+ https://github.com/bangtutorial/bang-motion :Animation Ad bna sakte hai kise bhi product or app ka. 
+
